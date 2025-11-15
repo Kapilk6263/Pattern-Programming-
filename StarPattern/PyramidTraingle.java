@@ -44,6 +44,9 @@ public class PyramidTraingle {
            System.out.print("  ");
         }
         System.out.println();
-    }
+    } 
+
+
+    
 }
 } 
